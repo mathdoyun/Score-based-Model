@@ -1,1 +1,1 @@
-# Score-based-Model
+## Score-based Model
